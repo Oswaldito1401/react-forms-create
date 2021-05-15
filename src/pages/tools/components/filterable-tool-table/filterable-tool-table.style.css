@@ -1,0 +1,25 @@
+.filterable-tool-table-container {
+    width: 35%;
+    margin: 0 auto;
+    min-height: 920px;
+    border: 15px solid black;
+    font-size: 1.5em;
+    color: #0e0d0d;
+    background-color: transparent;
+    width: 95%;
+    min-height: 30%px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 10px;
+   
+    
+   
+   
+    
+    
+
+}
+.body{
+    color: #FE7F88;
+    background-color: transparent;
+}
